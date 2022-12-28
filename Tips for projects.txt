@@ -1,0 +1,9 @@
+My learning objective was to understand how machine learning works, and how it could be implemented by a business user. Hence, I used low-code libraries where possible.
+
+For supervised and unsupervised learning, I used PyCaret: https://pycaret.gitbook.io/docs/ On top of this, I chose a small and familiar dataset, which you can find here (though incorrectly labelled as "big data"): https://charityguidepoint.sg/ 
+
+For deep learning, I used Tensorflow but read the documentation and experimented with variables. This is the low-code alternative: https://github.com/rafiqhasan/auto-tensorflow 
+
+For the Capstone, all you need to do are the exercises across the whole module. They are not difficult, and contain the answers you need for your final presentation.
+
+Good luck!
